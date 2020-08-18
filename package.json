@@ -1,0 +1,23 @@
+{
+  "name": "humanizer",
+  "version": "1.0.0",
+  "description": "A productivity management tool that looks quite like a game",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/saulojoab/humanizer",
+  "keywords": [
+    "productivity",
+    "gamification",
+    "electronjs"
+  ],
+  "author": "Saulo Joab Penha Simplício",
+  "devDependencies": {
+    "electron": "^9.2.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "electron-reload": "^1.5.0"
+  }
+}
